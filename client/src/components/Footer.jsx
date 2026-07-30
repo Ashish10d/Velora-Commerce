@@ -1,0 +1,1 @@
+export default function Footer() { return <footer className="mt-14 bg-ink py-10 text-white"><div className="shell flex flex-col justify-between gap-6 md:flex-row"><b className="text-xl tracking-[-.1em]">VELORA®</b><p className="text-sm text-zinc-400">Made for a life in forward motion.</p><p className="font-mono text-[10px] text-zinc-500">© 2026 VELORA</p></div></footer>; }
